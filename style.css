@@ -1,0 +1,40 @@
+.first{
+    display:flex;
+}
+.c2{
+    padding: 10px;
+    text-align: justify;
+
+}
+
+.fisrt1{
+    display: flex;
+    justify-content: space-between;
+}
+.container{
+    border: 1px solid white;
+    width:25%;
+    padding:10px;
+    box-shadow: 2px 2px 7px rgb(43, 43, 43);
+    margin:25px;
+    height: 230px;
+    background-color: white;
+}
+.main{
+    display: flex;
+    margin: 20px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    justify-content:space-around;
+    margin:40px;
+}
+.e2{
+    color:blue;
+
+}
+a{
+    text-decoration: none;
+}
+body{
+    background-color: rgba(202, 198, 198, 0.596);
+}
